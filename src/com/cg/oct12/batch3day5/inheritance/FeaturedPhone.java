@@ -7,6 +7,6 @@ public class FeaturedPhone extends Phone {
 	}
 
 	void music() {
-		System.out.println("Play music");
+		System.out.println("Play music......");
 	}
 }
